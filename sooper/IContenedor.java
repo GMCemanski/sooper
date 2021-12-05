@@ -1,6 +1,6 @@
-package gmcemanski.sooper;
+package sooper;
 
-import gmcemanski.sooper.enums.TipoContenedor;
+import sooper.enums.TipoContenedor;
 
 import java.util.Set;
 

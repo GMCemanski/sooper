@@ -1,7 +1,7 @@
-package gmcemanski.sooper.contenedores;
+package sooper.contenedores;
 
 
-import gmcemanski.sooper.enums.TipoContenedor;
+import sooper.enums.TipoContenedor;
 
 public class Caja extends Contenedor{
     int  ancho,largo;

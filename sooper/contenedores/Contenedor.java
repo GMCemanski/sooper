@@ -1,7 +1,7 @@
-package gmcemanski.sooper.contenedores;
+package sooper.contenedores;
 
-import gmcemanski.sooper.IContenedor;
-import gmcemanski.sooper.IProducto;
+import sooper.IContenedor;
+import sooper.IProducto;
 
 import java.util.Set;
 

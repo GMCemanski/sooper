@@ -1,6 +1,6 @@
-package gmcemanski.sooper.contenedores;
+package sooper.contenedores;
 
-import gmcemanski.sooper.enums.TipoContenedor;
+import sooper.enums.TipoContenedor;
 
 public class Bolsa extends Contenedor{
     private int ancho;

@@ -1,7 +1,7 @@
-package gmcemanski.sooper.productos;
+package sooper.productos;
 
-import gmcemanski.sooper.IProducto;
-import gmcemanski.sooper.enums.Categoria;
+import sooper.IProducto;
+import sooper.enums.Categoria;
 
 public class Drogueria extends Producto{
     public Drogueria(String referencia, int peso, int volumen) {

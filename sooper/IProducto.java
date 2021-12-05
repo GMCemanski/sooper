@@ -1,6 +1,6 @@
-package gmcemanski.sooper;
+package sooper;
 
-import gmcemanski.sooper.enums.Categoria;
+import sooper.enums.Categoria;
 
 public interface IProducto {
 
