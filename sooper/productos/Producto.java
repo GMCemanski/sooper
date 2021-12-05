@@ -1,7 +1,7 @@
-package gmcemanski.sooper.productos;
+package sooper.productos;
 
-import gmcemanski.sooper.IContenedor;
-import gmcemanski.sooper.IProducto;
+import sooper.IContenedor;
+import sooper.IProducto;
 
 public abstract class Producto implements IProducto {
 

@@ -1,4 +1,4 @@
-package gmcemanski.sooper;
+package sooper;
 
 import java.util.Set;
 

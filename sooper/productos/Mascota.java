@@ -1,7 +1,7 @@
-package gmcemanski.sooper.productos;
+package sooper.productos;
 
-import gmcemanski.sooper.IProducto;
-import gmcemanski.sooper.enums.Categoria;
+import sooper.IProducto;
+import sooper.enums.Categoria;
 
 public class Mascota extends Producto{
 

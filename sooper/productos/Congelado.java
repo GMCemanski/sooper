@@ -1,4 +1,4 @@
-package gmcemanski.sooper.productos;
+package sooper.productos;
 
 public class Congelado extends Alimentacion{
 
